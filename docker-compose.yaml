@@ -1,0 +1,15 @@
+version: '3.7'
+
+services:
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/usr/src/app:rw
+    entrypoint: sh
+    command: ./docker/dev_start.sh
+    env_file:
+      - ./docker/main.env
+    ports:
+      - '3000:3000'

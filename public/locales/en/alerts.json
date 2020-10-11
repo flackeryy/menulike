@@ -1,0 +1,7 @@
+{
+  "pin_recovery_success": "PIN code sent to {{email}}",
+  "unknown_email": "Unknown email",
+  "successfully_updated": "Successfully updated",
+  "menu_link_copied": "Menu link copied to the clipboard",
+  "qr_email_success": "QR code sent to {{email}}"
+}

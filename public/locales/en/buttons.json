@@ -1,0 +1,13 @@
+{
+  "create_menu": "Create Menu",
+  "login": "Login",
+  "save": "Save",
+  "logout": "Logout",
+  "continue": "Continue",
+  "create_restaurant": "Create Restaurant",
+  "forgot_pin": "I forgot my PIN code",
+  "resend_pin": "Send PIN code",
+  "open_menu_new_tab": "Open menu page in a new tab",
+  "copy_link": "Copy Link",
+  "send_qr_email": "Send QR to my email"
+}
